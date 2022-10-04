@@ -1,4 +1,4 @@
-# rush-hour-with-artificial-intelligence
+# Path Finder
 
 # Background Info
 - Developed with Python
